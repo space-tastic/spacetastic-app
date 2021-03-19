@@ -1,8 +1,12 @@
 [
     {
-        "overview" : "Space is itself a very intresting topic. There are many unsolved mysteries roaming around the universe. But here I will not solve that mystries because I cannot give wrong information to you all, instead I will discuss the topics. You can suggest me a topic for an article and via Email given in the \"More\" section."
+        "title" : "OVERVIEW",
+        "coverImage" : "https://space-tastic.github.io/spacetastic-app/res/images/overview.jpg",
+        "content": "Space is itself a very intresting topic. There are many unsolved mysteries roaming around the universe. But here I will not solve that mystries because I cannot give wrong information to you all, instead I will discuss the topics. You can suggest me a topic for an article and via Email given in the \"More\" section."
     },
     {
-        "next_topic" : "POPULAR AND FAMOUS SPACE FACTS"
+        "title" : "TOPIC FOR NEXT ARTICLE",
+        "coverImage" : "https://space-tastic.github.io/spacetastic-app/res/images/fact.jpg",
+        "content" : "\"POPULAR AND FAMOUS SPACE FACTS \" \nWant to know? Wait for the next post and have patience."
     }
 ]
