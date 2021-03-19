@@ -1,6 +1,7 @@
 [
     {
         "title" : "full life cycle of star",
+        "coverImage": "https://space-tastic.github.io/spacetastic-app/res/images/nebula.jpg",
         "content" : [
             {
                 "title" : "nebula",
@@ -41,16 +42,18 @@
     },
     {
         "title" : "WHY ARE WE ALL STAR KIDS?",
+        "coverImage" : "https://space-tastic.github.io/spacetastic-app/res/images/overview.jpg",
         "content" : [
             {
                 "title"  : "WHY ARE WE ALL STAR KIDS?",
                 "content" : "If you have read my first article, then you can guess why we all are star kids. Since, we know that in a star, hydrogen fuses to helium, helium further fuses to any other element, and this element fuses to an another element, which ends at iron. This process makes all elements of the universe, although some are man-made elements. We know that our body is also made of various elements, so where that all elements have come from? These elements had come from the stars which went under supernova explosion, by the explosion, all the elements made by the star are spread into to space which later forms our body which contains all of these elements. So, we are made of stardust and indirectly we can say that 'We all are star kids'. So there is no difference between the upper caste people and the lower cast people because they are made of the one and only same thing, that is, stardust. Now just look at your body and imagine that you were once a part of star.",
-                "img" : ""
+                "img" : "https://space-tastic.github.io/spacetastic-app/res/images/fact.jpg"
             }
         ]
     },
     {
         "title" : "REASON BEHIND DIAMOND PLANET AND DIAMOND RAIN",
+        "coverImage" : "https://space-tastic.github.io/spacetastic-app/res/images/diamond.jpg",
         "content" : [
             {
                 "title" :  "HOW DIAMONDS ARE FORMED?",
@@ -71,6 +74,7 @@
     },
     {
         "title" : "breakthrough starshot mission",
+        "coverImage" : "https://space-tastic.github.io/spacetastic-app/res/images/project_animation.gif",
         "content" : [
             {
                 "title" : "INTRODUCTION",
@@ -91,6 +95,7 @@
     },
     {
         "title" : "ALL ABOUT BLACK HOLES FROM ZERO TO HERO",
+        "coverImage" : "https://space-tastic.github.io/spacetastic-app/res/images/black-hole.jpg",
         "content" : [
             {
                 "title" : "INTRODUCTION",
